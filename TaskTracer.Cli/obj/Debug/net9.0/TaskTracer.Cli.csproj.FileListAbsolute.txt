@@ -1,0 +1,14 @@
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\bin\Debug\net9.0\TaskTracer.Cli.exe
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\bin\Debug\net9.0\TaskTracer.Cli.deps.json
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\bin\Debug\net9.0\TaskTracer.Cli.runtimeconfig.json
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\bin\Debug\net9.0\TaskTracer.Cli.dll
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\bin\Debug\net9.0\TaskTracer.Cli.pdb
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\obj\Debug\net9.0\TaskTracer.Cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\obj\Debug\net9.0\TaskTracer.Cli.AssemblyInfoInputs.cache
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\obj\Debug\net9.0\TaskTracer.Cli.AssemblyInfo.cs
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\obj\Debug\net9.0\TaskTracer.Cli.csproj.CoreCompileInputs.cache
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\obj\Debug\net9.0\TaskTracer.Cli.dll
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\obj\Debug\net9.0\refint\TaskTracer.Cli.dll
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\obj\Debug\net9.0\TaskTracer.Cli.pdb
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\obj\Debug\net9.0\TaskTracer.Cli.genruntimeconfig.cache
+C:\onedrive\Desktop\TaskTracker.Cli\TaskTracer.Cli\obj\Debug\net9.0\ref\TaskTracer.Cli.dll

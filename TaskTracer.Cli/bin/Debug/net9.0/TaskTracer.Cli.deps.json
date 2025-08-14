@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TaskTracer.Cli/1.0.0": {
+        "runtime": {
+          "TaskTracer.Cli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskTracer.Cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
